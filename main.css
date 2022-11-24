@@ -1,0 +1,160 @@
+html {
+    background-color: darkgray;
+}
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px 15px 30px;
+    margin-bottom: 7%;
+}
+#button {
+    background-color: red;
+    padding: 10px;
+    width: 80px;
+    font-size: 16px;
+    border: none;
+    border-radius: 3px;
+}
+img[src="images/Netflix-logo-name.png"] {
+    width: 140px;
+}
+.header {
+    width: 650px;
+    margin: 0 auto;
+}
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+}
+h1#header {
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 1%;
+}
+#watch {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 2%;
+}
+#watch2 {
+    font-size: 18px;
+    text-align: center;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 120px;
+}
+input {
+    width: 450px;
+    background-color: white;
+    height: 41px;
+    border: 1px solid black;
+    font-size: 15px;
+    padding: 5px 5px 5px 10px;
+}
+#get-started {
+    background-color: red;
+    width: 200px;
+    height: 53px;
+    border-radius: 0;
+    border: 1px solid black;
+    font-size: 25px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.wrapper2 {
+    display: flex;
+    justify-content: space-around;
+    padding: 35px 35px 20px 40px;
+}
+img[src="images/Netflix-tv.png"] {
+    width: 450px;
+}
+.text {
+    width: 600px;
+}
+p {
+    font-size: 25px;
+}
+h1 {
+    font-size: 50px;
+    text-align: left;
+    margin-bottom: 1%;
+}
+img[src="images/Netflix-mobile.jpg"] {
+    width: 450px;
+}
+.wrapper3 {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 10px 10px 10px
+}
+.check {
+    margin: 0 100px;
+    width: 600px;
+    padding: 40px 2px 20px 2px;
+}
+img[src="images/Netflix-kids.png"] {
+    width: 450px;
+}
+.wrapper4 {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 2px 40px 2px;
+}
+h1#faq {
+    text-align: center;
+    padding: 40px 2px 20px 2px;
+    margin-top: 0;
+}
+details > summary {
+    padding: 10px;
+    width: 800px;
+    background-color: darkgray;
+    cursor: pointer;
+    font-size: 25px;
+}
+details > p {
+    padding: 10px;
+    width: 800px;
+    background-color: darkgray;
+}
+.details {
+    width: 800px;
+    margin: 10px auto;
+    display: block;
+}
+.wrapper5 {
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    margin: 5px auto;
+    font-size: smaller;
+}
+ul li{
+    padding: 10px 5px 10px 5px;
+    list-style-type: none;
+}
+h6 {
+    margin-left: 255px;
+    margin-bottom: 0;
+    font-size: smaller;
+}
+#close {
+    margin-left: 255px;
+    font-size: smaller;
+}
+section {
+    background-color: black;
+    margin: 5px auto;
+}
+footer {
+    background-color: black;
+    padding: 20px 4px 20px 4px;
+    color: darkgray;
+}
